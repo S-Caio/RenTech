@@ -1,4 +1,4 @@
-## Brief intro into Renaissance Technologies
+## Brief intro to Renaissance Technologies
 
 Renaissance Technologies ("RenTech") is one of the pioneers of quantitative investing. Founded by Jim Simons, a brilliant mathematician, it was one of the first companies in the world to use Machine Learning (ML). To this day, it remains one of the most advanced hedge funds in thw world, while also being incredibly secretive. They only hire extremely intelligent people, usually from maths, physics, and statistics departments, who can leverage their quantitative skills to improve their models. 
 
